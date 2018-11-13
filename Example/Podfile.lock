@@ -1,0 +1,16 @@
+PODS:
+  - ADTextViewPlaceHolder (0.1.0)
+
+DEPENDENCIES:
+  - ADTextViewPlaceHolder (from `../`)
+
+EXTERNAL SOURCES:
+  ADTextViewPlaceHolder:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  ADTextViewPlaceHolder: 518e0279fd24c507bdba3084160b5ef3a261a406
+
+PODFILE CHECKSUM: 877380c711d781d27ba4d6cf2a015aa40b781cb7
+
+COCOAPODS: 1.2.1
