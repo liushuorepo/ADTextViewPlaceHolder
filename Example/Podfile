@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'ADTextViewPlaceHolder_Example' do
+  pod 'ADTextViewPlaceHolder', :path => '../'
+
+  target 'ADTextViewPlaceHolder_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
