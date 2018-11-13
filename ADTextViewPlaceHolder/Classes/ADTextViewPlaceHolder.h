@@ -10,7 +10,7 @@
 
 @interface ADTextViewPlaceHolder : UITextView
 
-//IBInspectable: 让你的自定义 UIView 的属性出现在 IB 中 Attributes inspector
+// IBInspectable: 让你的自定义 UIView 的属性出现在 IB 中 Attributes inspector
 @property (nonatomic, strong) IBInspectable NSString *placeholder;
 @property (nonatomic, strong) IBInspectable UIColor *placeholderColor;
 
